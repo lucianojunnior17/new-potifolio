@@ -89,7 +89,7 @@ nav-menu a:hover i,
 }
 
 section#inicio {
-    background-image: url("../static/img/nfundo.png");
+    background-image: url("../static/img/andromeda-4k-1024x576.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -158,3 +158,10 @@ i.menu-mobile {
         margin-left: 0;
     }
 }
+
+/*gambiarra para arrumar kk*/
+.col-md-12{
+    margin-left: 250px;
+       
+}
+
