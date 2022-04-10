@@ -139,6 +139,11 @@ i.menu-mobile {
 .nav-menu-active #header {
     left: 0;
 }
+
+#sobre {
+    margin-left: 300px;
+}
+
 @media (max-width: 1024px) {
 
     #header {
@@ -158,10 +163,3 @@ i.menu-mobile {
         margin-left: 0;
     }
 }
-
-/*gambiarra para arrumar kk*/
-.col-md-12{
-    margin-left: 250px;
-       
-}
-
