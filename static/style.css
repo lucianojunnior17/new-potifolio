@@ -140,8 +140,12 @@ i.menu-mobile {
     left: 0;
 }
 
-#sobre {
-    margin-left: 300px;
+/* Gambiarra*/
+section .container .section-bg {
+    margin-left: auto;
+}
+.section-bg {    
+    background-color: #efefef;
 }
 
 @media (max-width: 1024px) {
@@ -152,13 +156,7 @@ i.menu-mobile {
     i.menu-mobile {
         display: flex;
     }
-    section#inicio h2 {
-        font-size: 3.5rem;
-    }
-    section#inicio span#suntitule {
-        margin-right: 0;
-        font-size: 1rem;
-    }
+    
     #main {
         margin-left: 0;
     }
