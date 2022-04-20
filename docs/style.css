@@ -203,18 +203,17 @@ iframe {
     margin-left: 100px;
 }
 
-#footer {
-    padding: 16px;
-    color: #fff;
-    font-size: 14px;
-    position: flex;
-    left: 0;
-    bottom: 0;
-    width: 300px;
-    z-index: 500;
-    background-color: #021124;
-    transition: 3s;
+footer {
+    
+    text-align: center;
+    color: #ffffff;
+    background: url(img/bg.jpg);
+    padding: 140x 0;
+    font-size: 13px;
+    margin: 20px 20px ;
 }
+
+
 @media (max-width: 1080px) {
     .carousel-control-prev {
         margin-left: 0;
